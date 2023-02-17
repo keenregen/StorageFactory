@@ -1,2 +1,2 @@
 # Solidity Study 2
-## Storage Factory To Work On Remix
+## Storage Factory Using Simple Storage as Basis To Work On Remix
